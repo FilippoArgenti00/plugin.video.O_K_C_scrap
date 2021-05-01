@@ -1,5 +1,12 @@
 {
 	"sites": {
+		"ddlstreamitaly": {
+			"link": "https://ddlstreamitaly.co/video/",
+			"is_cloudflare": false,
+			"timeout": 8,
+			"works": true
+		},
+		  
 		"altadefinizione1": {
 			"link": "https://altadefinizione.cheap/",
 			"is_cloudflare": false,
